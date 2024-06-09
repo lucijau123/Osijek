@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Osijek</title>
+    </head>
+    <body>
+        <h1>Osijek</h1>
+            Osijek je grad u istočnoj Hrvatskoj. Smješten je u ravnici na desnoj obali rijeke Drave od ušća u Dunavu.
+            Osijek je grad s najviše zelenila i zelenih površina u Hrvatskoj; na području grada nalazi se 17 parkova u ukupnoj površini od 394 000 m².
+        <p>Najveći je grad u Slavoniji, četvrti po veličini grad u Hrvatskoj, te je industrijsko, upravno, akademsko, sudsko i kulturno središte Osječko-baranjske županije. </p>
+        <h3>Sadržaj:</h3>
+        1. Zemljopis<br>
+        2. Demografija<br>
+        3. Kultura<br>
+        4. Konzulati U Osijeku<br>
+        <h2>1. Zemljopis</h2>
+        <p> Zemljopisni položaj grada:
+            Regija: Slavonija
+            sjeverna širina 45º 32'
+            istočna dužina 18º 44'
+            Nadmorska visina 90 m
+            Površina grada 171 km^2</p>
+        <h2>2.Demografija</h2>
+        <p>U samome naselju Osijeku živi 75 916 stanovnika, a na području administrativnoga Grada Osijeka 96 848 stanovnika.
+           Prema podatcima o nacionalnosti iz 2011. god. 96 746 (89,54 %), stanovnika Osijeka su Hrvati; 6 751 (6,25 %) Srbi; 979 (0,91 %) Mađari; 263 (0,24 %) Nijemci i dr.
+           Osijek ima deset katoličkih župa.Osim katoličkih župa, nalaze se i jedna evangelistička, dvije pravoslavne parohije, baptistička, te adventistička crkva, Evanđeoski teološki fakultet teŽidovska općina.</p>
+        <h3>3.Kultura</h3>
+        <p>Osijek je najveće kulturno središte Slavonije i Baranje.
+           Prve kazališne predstave održavale su se u baroknom Osijeku još u 18. stoljeću, a prva kazališna zgrada, Hrvatsko narodno kazalište, sagrađena je 1866. godine.
+           U Osijeku je i muzej od nacionalnoga značenja, Muzej Slavonije.Osijek je 2016. godine ušao u završni krug natjecanja za prestižnu titulu Europske prijestolnice kulture </p>
+        <h4>4. Kpnzulati u Osijekut</h4>
+        <p> U Osijeku se nalaze i konzulati iz: Mađarske, Albanije, Slovačke, Njemačke, Finske.</p>
+    </body>
+</html>
